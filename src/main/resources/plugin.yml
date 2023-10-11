@@ -1,0 +1,3 @@
+name: ParticleAnimations
+version: '${project.version}'
+main: org.mmmmarkkk.particleanimations.Main

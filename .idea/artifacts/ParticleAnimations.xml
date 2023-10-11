@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParticleAnimations">
+    <output-path>$USER_HOME$/Desktop/Новая папка/plugins</output-path>
+    <root id="archive" name="ParticleAnimations.jar">
+      <element id="module-output" name="ParticleAnimations" />
+    </root>
+  </artifact>
+</component>
